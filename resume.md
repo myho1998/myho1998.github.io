@@ -28,6 +28,7 @@ Resourceful in setting priorities projects and deadlines, multitasking well whil
 
 ** Computer skills:  Experience in Microsoft Office tools. **
 
+> This is a blockquote
 
 ## Work Experience (only last 5 years)
 #### Lowe’s Inc
