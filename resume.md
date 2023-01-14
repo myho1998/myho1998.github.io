@@ -26,26 +26,22 @@ Resourceful in setting priorities projects and deadlines, multitasking well whil
 
 - Commitment to and enthusiasm for team success, aptitudes in collaborating with mentors and teammates to build and maintain positive relationships
 
-** Computer skills:  Experience in Microsoft Office tools. **
+- Computer skills:  Experience in Microsoft Office tools.
 
-> This is a blockquote
 
 ## Work Experience (only last 5 years)
 #### Lowe’s Inc
 Sale Associate and Fulfillment Associate
-```
-Provides customer service to:
+
+> Provides customer service to:
  front end, customer service desk and online order ready for happy customers makes me stronger in health, communication, knowledge, teamworks
- ```
+ 
 
 
 ## University Name ( Seattle, WA State)
 
  University of Washington (2021- current)
+ [University Page](http://www.uw.edu)
 
 * Major: Geography in Data Science
-* Minor: Information System
-
-
-[University Page](http://www.uw.edu)
-
+* Junior student 
